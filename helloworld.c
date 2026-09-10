@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-   printf("Hello, World!");
+   printf("Hello, Universe!");
+   printf("Hello, Galaxy!");
    return 0;
 }
